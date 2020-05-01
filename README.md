@@ -2,7 +2,7 @@
 Blog is a mobile app like Facebook, It enable you to create a unique and beautiful blog and more.  
 
 # Features
-With my whatsApp you can:
+With Blog you can:
 
 * You can register and login.
 * You can reset your password if you forget it.
