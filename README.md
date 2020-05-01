@@ -1,5 +1,5 @@
 # Blog
-Blog is a mobile app like Facebook, It enable you to create a unique and beautiful blog and more.  
+Blog is a mobile app like Facebook, It enable you to create a unique and beautiful blog. You also can chat with your friends and more. 
 
 # Features
 With Blog you can:
