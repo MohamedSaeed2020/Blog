@@ -16,7 +16,7 @@ With Blog you can:
 * You can change your password.
 * You can chat with your friends with messenger app in your blog app with full features.
 * You can receive notification when some one send you a message or add a post.
-* You can enable or disable the post notificatios 
+* You can enable or disable the post notifications. 
 
 # Technologies used
 
