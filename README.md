@@ -22,8 +22,11 @@ With Blog you can:
 
 * REST API using Volley
 * Picasso for the Image Network
+* FCM
+* Push notification
+* Real time database
 
 ## The APK File link
-https://dl.orangedox.com/5TCkoJ5m9ouWfGmXRw
+https://dl.orangedox.com/ApZVYWrhOMuHy6QnVh
 
 
